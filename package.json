@@ -1,0 +1,11 @@
+{
+  "name": "pinner",
+  "version": "1.0.0",
+  "description": "A simple bot that pins messages when reacted with a specified emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MikanDev",
+  "license": "WTFPL"
+}
