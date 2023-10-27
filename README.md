@@ -12,10 +12,10 @@ This bot will automatically pin any message that is reacted to with the emoji of
 # FAQ
 
 - Can I modify, redistribute or sell this code?
-yes. (for the love of god don't SELL this code like wtf)
+<br>yes. (for the love of god don't SELL this ~~bad~~ code like wtf)
 
 - Will you host this bot for me?
-no. (it's easy to host)
+<br>no. (it's easy to host)
 
 - Where can I host this bot?
 1. Go to [www.google.com](https://google.com/)
